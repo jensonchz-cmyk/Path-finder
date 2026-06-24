@@ -51,8 +51,7 @@ https://www.aliexpress.com/item/1005011964189969.html?spm=a2g0o.cart.0.0.6b9638d
 https://www.aliexpress.com/item/1005008200917480.html?spm=a2g0o.cart.0.0.6b9638daSATGTK&mp=1&pdp_npi=6%40dis%21AUD%21AUD+11.12%21AUD+7.89%21%21AUD+7.89%21%21%21%402101d6fe17822926031567990eea66%2112000058130698585%21ct%21AU%217797925100%21%211%210%21
 <br>
 
-1.42 dollars - Resistors (100ohm) - To make sure the LEDS don't blow
+0.76 dollars - Resistors (100ohm) - To make sure the LEDS don't blow
 
-(https://www.aliexpress.com/item/1005010503870810.html?spm=a2g0o.cart.0.0.6b9638daSATGTK&mp=1&pdp_npi=6%40dis%21AUD%21AUD+6.20%21AUD+1.45%21%21AUD+1.45%21%21%21%402101d6fe17822926031567990eea66%2112000052612807946%21ct%21AU%217797925100%21%211%210%21)
-<br>
 
+](https://www.aliexpress.com/item/1005006040209297.html?spm=a2g0o.cart.0.0.515938daQjPjzf&mp=1&pdp_npi=6%40dis%21AUD%21AUD%200.76%21AUD%200.76%21%21AUD%200.76%21%21%21%402101d6ff17822933622073493ebdb0%2112000035442807620%21ct%21AU%217797925100%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D)
