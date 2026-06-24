@@ -32,16 +32,27 @@ BOM
 <br>
 
 1.42 dollars - Keycaps - To cover the switches
+
+https://www.aliexpress.com/item/1005007791365492.html?spm=a2g0o.cart.0.0.6b9638daSATGTK&mp=1&pdp_npi=6%40dis%21AUD%21AUD+9.53%21AUD+1.45%21%21AUD+1.45%21%21%21%402101d6fe17822926031567990eea66%2112000042214863584%21ct%21AU%217797925100%21%211%210%21
 <br>
 
 1.42 dollars - Switches - To function as inputs
+
+https://www.aliexpress.com/item/1005006217630409.html?spm=a2g0o.cart.0.0.6b9638daSATGTK&mp=1&pdp_npi=6%40dis%21AUD%21AUD+7.96%21AUD+1.45%21%21AUD+1.45%21%21%21%402101d6fe17822926031567990eea66%2112000036325155647%21ct%21AU%217797925100%21%211%210%21
 <br>
 
 0.97 dollars - LEDS - To light up
+
+https://www.aliexpress.com/item/1005011964189969.html?spm=a2g0o.cart.0.0.6b9638daSATGTK&mp=1&pdp_npi=6%40dis%21AUD%21AUD+1.07%21AUD+1.07%21%21AUD+1.07%21%21%21%402101d6fe17822926031567990eea66%2112000057145223850%21ct%21AU%217797925100%21%211%210%21
 <br>
 
 7.60 dollars - Xiao - To run the programs.
+
+https://www.aliexpress.com/item/1005008200917480.html?spm=a2g0o.cart.0.0.6b9638daSATGTK&mp=1&pdp_npi=6%40dis%21AUD%21AUD+11.12%21AUD+7.89%21%21AUD+7.89%21%21%21%402101d6fe17822926031567990eea66%2112000058130698585%21ct%21AU%217797925100%21%211%210%21
 <br>
 
 1.42 dollars - Resistors (100ohm) - To make sure the LEDS don't blow
+
+(https://www.aliexpress.com/item/1005010503870810.html?spm=a2g0o.cart.0.0.6b9638daSATGTK&mp=1&pdp_npi=6%40dis%21AUD%21AUD+6.20%21AUD+1.45%21%21AUD+1.45%21%21%21%402101d6fe17822926031567990eea66%2112000052612807946%21ct%21AU%217797925100%21%211%210%21)
+<br>
 
