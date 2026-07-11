@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D1, D2, D3, D4";"LEDRD254W57D500H1070";4;"L08R5000Q1";;;
+2;"R1, R2, R3, R4";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";4;"R";;;
+3;"SW1, SW2, SW3, SW4";"SW_Cherry_MX_1.00u_PCB";4;"SW_Push";;;
+4;"U1";"XIAO-RP2040-DIP (3)";1;"XIAO-RP2040-DIP";;;
