@@ -1,3 +1,5 @@
+I added another button and LED to make it more original and uploaded a bom file
+<br>
 <img width="768" height="503" alt="image" src="https://github.com/user-attachments/assets/059503b4-708f-480e-88c7-9aa3906ea5d7" />
 <br>
 This is my Pathfinder project, I created this as it looked cool to make, I followed a tutorial from the stasis started projects.
